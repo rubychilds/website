@@ -1,0 +1,15 @@
+[about]
+other = "About"
+[portfolio]
+other = "Portfolio"
+[blog]
+other = "Blog"
+[blog2]
+other = "Blog2"
+
+[graphicdesign]
+other = "Graphic Design"
+[webdesign]
+other = "Web Design"
+[webdevelopment]
+other = "Web Development"

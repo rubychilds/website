@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog2 on Ruby Childs</title>
+    <link>https://rubychilds.github.io/work/</link>
+    <description>Recent content in Blog2 on Ruby Childs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jul 2018 18:23:33 +0600</lastBuildDate>
+    
+	<atom:link href="https://rubychilds.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BFI: Ridley Scott Retrospective</title>
+      <link>https://rubychilds.github.io/work/bfi-ridley-scott/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubychilds.github.io/work/bfi-ridley-scott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Museum of Writing</title>
+      <link>https://rubychilds.github.io/work/museum-of-writing/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubychilds.github.io/work/museum-of-writing/</guid>
+      <description>Responsive Website DesignHere we show the responsive mobile version of the newly designed site.01 Colour02 Type03 Graphics</description>
+    </item>
+    
+    <item>
+      <title>Putty Tribe</title>
+      <link>https://rubychilds.github.io/work/putty-tribe/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubychilds.github.io/work/putty-tribe/</guid>
+      <description>     01 Colour    02 Type     03 Graphics       </description>
+    </item>
+    
+    <item>
+      <title>Samsosa&#39;s for Electricians</title>
+      <link>https://rubychilds.github.io/work/bolt/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubychilds.github.io/work/bolt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TLab</title>
+      <link>https://rubychilds.github.io/work/tlab/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubychilds.github.io/work/tlab/</guid>
+      <description>01 Colour    02 Type     03 Graphics</description>
+    </item>
+    
+    <item>
+      <title>mind. mouth. menu.</title>
+      <link>https://rubychilds.github.io/work/mmm/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubychilds.github.io/work/mmm/</guid>
+      <description>A cooking programme on healthy eating, is now looking at expansion into the app market Clean, minimal app with energy to it with iconography and color scheme used.
+01 Colour02 Type03 Graphics</description>
+    </item>
+    
+  </channel>
+</rss>

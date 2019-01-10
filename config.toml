@@ -1,0 +1,112 @@
+baseURL = "https://rubychilds.github.io"
+languageCode = "en-us"
+title = "Ruby Childs"
+theme = "navigator-hugo"
+
+# Build robots.txt file
+enableRobotsTXT = true
+# google analytics tracking id
+googleAnalytics = ""
+
+enableGitInfo = true
+pygmentsCodeFences = true
+
+# Multilangues setup
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "en"
+
+# Site Params
+[params]
+    logo = "images/logo.png"
+
+    [[Params.listeLangues]]
+    code = "en"
+
+[taxonomies]
+    tag = "tags"
+
+[Languages]
+
+    ############# 2 - Site ENGLISH
+    [Languages.en]
+    weight = 2
+    languageCode = "en-us"
+    title = "Ruby Childs"
+    dateFormat = "January 2, 2006"
+
+    home = "Home"
+    logo = "images/logo.png"
+    menufixed = true
+
+    footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+    footerServiceTitle = "Service"
+    footerQuicklinkTitle = "Quicklinks"
+    footerAboutTitle = "About"
+    footerSubscribeTitle = "Subscribe"
+
+    # Hero Area Section
+    [Languages.en.params.hero]
+        enable  = true
+        heading = ""
+        description = "I'm a multidisciplinary creature, crossing both design and engineering"
+        button  = false
+        btnText = "Know More"
+        btnURL  = "https://themefisher.com/"
+        videoThumb = "images/slider/video-player-thumb.jpg"
+        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+
+    # About 2 Section
+    [Languages.en.params.aboutSm]
+        enable  = true
+        title   = "About me"
+        description = """Hello! It’s great to see you here, checking out my website. As you may see I’m a multidisciplinary creature, crossing both design and engineering. I’m currently based in New York, often found in London. Right now, one of my main interests is Graphic design where I’ve discovered my love of typography, often delving into a type lockup. I’m also passionate about AI and Ethics, having recently written an essay on the subject via self-study, and am beginning to do more work in this area.<br/><br/> Beyond these, I combine my love of both design and technology through generative art, and have dabbled in using GAN’s, a recent AI technique. So over the next few months, I’ll be continuing on my focus in these areas. Over the last year, I’ve attended the Royal College of Art in London, studying Textiles, in which I’ve been exploring futuristic and sustainable material design. I have a love of print, dabbling in screen printing, collographs and non-print techniques such as Ebru.<br/><br/>More recently, I’ve undergone a course in Graphic Design at Shillington in New York. In past studies, I completed a BSc in Maths and a MSc in Computing Science at Imperial College. As you can imagine, I really love geometrically focused designs as these combine maths and design. Particular artists I love include Escher and Bridget Riley. Prior to my focus on design skills, I’ve worked as a freelance Data Scientist in which I help build recommendation systems, prototypes, BI transformations and natural language systems in Python. I’ve also attempted multiple startups, and have partaken in YCombinators Startup School and Entrepreneur First, a deep tech accelerator. In my spare time, I’ve co-organised and chaired PyData, and founded Hack&&Tell in London. I love going to meet ups to meet like-minded people and learn from others. Away from this, I watch Grand Designs, Sci-Fi based films, and some super cringe worthy shows as a way to relax."""
+
+    # Blog Section On Homepage
+    [Languages.en.params.blog]
+        enable  = false
+        topTitle= "Blog"
+        title   = "My blog"
+        subtitle= "xxx"
+
+    # Contact Section
+    [Languages.en.params.contact]
+        enable  = true
+        topTitle= "DROP US A NOTE"
+        title   = "Contact Us."
+        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        address = "14/05, Stockhome <br> Victori Palace , United States"
+        phone   = "(03) 9283 2617"
+        fax     = "+61 3827 3590"
+        facebook= "https://www.facebook.com/"
+        twitter = "https://twitter.com/"
+        linkedin= "https://www.linkedin.com/"
+        dribbble= "https://dribbble.com/"
+        instagram= "https://www.instagram.com/"
+        mapLatitude = "51.507351"
+        mapLongitude= "-0.127758"
+        mapMarker   = "images/marker.png"
+
+    # Call to Action Section on About Page
+    [Languages.en.params.cta]
+        enable  = true
+        bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+        title   = "Let's Create Something Together"
+        subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+        btnText = "Contact Us"
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "About"
+        url     = "about"
+        weight  = 5
+    [[menu.nav]]
+        name    = "Blog"
+        url     = "blog"
+        weight  = 4
+    [[menu.nav]]
+        name    = "Work"
+        url     = "work"
+        weight  = 3

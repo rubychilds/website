@@ -1,0 +1,59 @@
+{{ partial "header.html" . }}
+
+{{ partial "preloader.html" . }}
+
+{{ partial "navigation.html" . }}
+
+<div id="nav">
+  <div id="wrap">
+    {{ if .NextInSection }}
+      <a href="{{ .NextInSection.Permalink }}"><div id="nav_left" ><img height=35 src="/images/icons/left.png"></div></a>
+    {{ end }}
+    {{ if .PrevInSection }}
+      <a href="{{ .PrevInSection.Permalink }}"><div id="nav_right"><img height=35 src="/images/icons/right.png"></div></a>
+    {{ end }}
+  </div>
+</div>
+
+
+<section class="blog-single section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mx-auto">
+                <img src="{{ with .Params.image }}{{ . | absURL }}{{ end }}" class="w-100 mb-3 main-image" alt="Post-Image">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 project-title">
+                  <h2>{{ .Params.lead_title }}</h2>
+                  <h6> {{ .Params.role }}   /   {{ .Params.company }}  /  {{ .Params.year }} </h6>
+            </div>
+            <div class="col-md-6">
+                <div class="block">
+                <div class="post-meta mb-5">
+                    <h8>{{ with .Params.brief }}{{ . | safeHTML }}{{ end }}<h8>
+                </div>
+
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-12 mx-auto">
+            {{ range $elem_val := $.Params.images }}
+                  <img src="{{ with $elem_val }}{{ . | absURL }}{{ end }}" class="w-100 mb-3 padding-0" alt="Post-Image">
+            {{ end }}
+            </div>
+        </div>
+
+        {{ .Content }}
+
+    </div>
+
+
+
+</section>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,43 @@
+enable  : true
+topTitle: xxx
+title   : xxx
+subtitle: xxx
+
+filtermenu :
+  - name      : Design
+    category  : design
+  - name      : UI
+    category  : ui
+
+
+item   :
+
+  - title : Bolt Samosa
+    image : images/portfolio/samosa/front-icon3.png
+    category  : design
+    url: /work/bolt
+
+  - title : BFI Ridley Scott
+    image : images/portfolio/BFI/front-icon2.png
+    category  : design
+    url: /work/bolt
+
+  - title : Mind. Mouth. Menu.
+    image : images/portfolio/mmm-app/front-icon.png
+    category : ui
+    url: /work/mmmm
+
+  - title : Museum of Writing
+    image : images/portfolio/museum-of-writing/front-icon.png
+    category : design
+    url: /work/museum-of-writing
+
+  - title : Putty Tribe
+    image : images/portfolio/putty/front-image2.png
+    category : design
+    url: /work/pydata
+
+  - title : Tlab
+    image : images/portfolio/Tlab/front-icon2.png
+    category : ui
+    url: /work/tlab

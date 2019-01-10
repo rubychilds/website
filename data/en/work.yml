@@ -1,0 +1,6 @@
+filtermenu :
+  - name      : Data Science
+    category  : data-science
+
+  - name      : Branding
+    category  : branding

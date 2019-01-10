@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Ruby Childs</title>
+    <link>https://rubychilds.github.io/blog/</link>
+    <description>Recent content in Blog on Ruby Childs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jul 2018 18:23:33 +0600</lastBuildDate>
+    
+	<atom:link href="https://rubychilds.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keys to Good Data Science</title>
+      <link>https://rubychilds.github.io/blog/keys-to-good-data-science/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubychilds.github.io/blog/keys-to-good-data-science/</guid>
+      <description>I’ve been working as a Data Scientist for a few years now, so I’ve decided to share what I think is key to good data science. A lot of the advice is applicable to other areas, so there’s cross over in other roles. Also you may disagree with some of it! Am always happy to discuss it, so drop me an email if you think otherwise. I may even evolve and develop these thoughts as time goes on!</description>
+    </item>
+    
+    <item>
+      <title>Time Thoughts</title>
+      <link>https://rubychilds.github.io/blog/time-thoughts/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubychilds.github.io/blog/time-thoughts/</guid>
+      <description>Time is an odd quantity, many of us wishing we had more of it, or wanting it to hurry up for some pivotal event in our lives. We know time, in terms of past, present and future. Being able to recall dates of significant events, what we are doing at this very moment as well as planning future milestones, holidays or celebrations.
+We lead ourselves into a sense time is linear and global.</description>
+    </item>
+    
+    <item>
+      <title>School for Poetic Computation</title>
+      <link>https://rubychilds.github.io/blog/sfpc/</link>
+      <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rubychilds.github.io/blog/sfpc/</guid>
+      <description>Over the past few weeks, I have moved my life back to NY to attend SFPC. For those of you who may not have heard about SFPC before, its a school for the intersection of art and technology and is a hybrid of a school, residency and research group.
+Anyway here are some initial thoughts about what I want SFPC to be and what I plan to do!
+What I want for SFPC to be?</description>
+    </item>
+    
+  </channel>
+</rss>

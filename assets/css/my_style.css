@@ -1,0 +1,310 @@
+/* modification empruntée à https://github.com/themefisher/timer-hugo/blob/master/static/css/style.css */
+@font-face {
+  font-family: 'benton';
+  font-weight: 400;
+  src: url('/fonts/BentonModDisp-Ultra.eot'),
+       url('/fonts/BentonModDisp-Ultra.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/BentonModDisp-Ultra.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+.top-bar {
+    /* position: fixed; */
+    top: 0;
+    width: 100%;
+    background: #fff;
+    color: #fff;
+    transition: all 0.2s ease-out 0s;
+    padding: 0px 0;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
+    z-index: 10;
+}
+
+.top-bar.animated-header {
+  background: #fff;
+  box-shadow: none;
+}
+
+.portfolio-section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.work-section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.blog-section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.about-2 {
+  padding-top: 50px;
+  background: none;
+}
+
+.blog-single {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+footer {
+  width:100%;
+  height:30px;
+}
+
+/* .col-md-8 > h2 {
+    padding-top: 50px;
+} */
+
+.navbar {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.hero-area {
+  height:620px;
+}
+
+.hero-area .block h2 {
+  font-size: 20px;
+  text-transform: none;
+  color: white;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.main-image {
+  margin-bottom: 3rem !important;
+}
+
+.writing-phones {
+    background: #ffffff;  /* #cafff5; */
+    padding-top: 50px;
+}
+
+/* mmm App */
+
+.mmm-app img {
+    -webkit-filter: drop-shadow(5px 5px 5px rgba(0,2,32,0.15));
+    filter: drop-shadow(5px 5px 5px rgba(0,2,32,0.15));
+    padding-bottom: 10px;
+}
+
+.mmm-app:hover img {
+    -webkit-transform:scale(1.1); /* Safari and Chrome */
+    -moz-transform:scale(1.1); /* Firefox */
+    -ms-transform:scale(1.1); /* IE 9 */
+    -o-transform:scale(1.1); /* Opera */
+     transform:scale(1.1);
+     -webkit-filter: drop-shadow(5px 5px 5px rgba(0,2,32,0.15));
+     filter: drop-shadow(5px 5px 5px rgba(0,2,32,0.15));
+}
+
+.icon-mmm {
+  padding-bottom: 50px;
+}
+
+.category-cards {
+  padding-bottom: 100px;
+}
+
+.category-card:hover {
+  -webkit-transform:scale(1.1); /* Safari and Chrome */
+  -moz-transform:scale(1.1); /* Firefox */
+  -ms-transform:scale(1.1); /* IE 9 */
+  -o-transform:scale(1.1); /* Opera */
+   transform:scale(1.1);
+}
+
+.app-screen {
+  padding-bottom: 100px;
+}
+
+.mmm-description {
+  padding-top:  50px;
+  padding-right: 50px;
+}
+
+.icon-mmm:hover {
+  -webkit-transform:scale(1.1); /* Safari and Chrome */
+  -moz-transform:scale(1.1); /* Firefox */
+  -ms-transform:scale(1.1); /* IE 9 */
+  -o-transform:scale(1.1); /* Opera */
+   transform:scale(1.1);
+}
+
+/* Video Play */
+
+#MSvideoContainer {
+  width: 434px;
+  height: 805px;
+  display: inline-block;
+  float: left;
+  background: url("/images/portfolio/mmm-app/iphone.png") center center no-repeat;
+  background-size:cover;
+}
+
+#MSvideoContent {
+  padding-top: 135px;
+  padding-left: 2px;
+  text-align:center;
+  overflow:hidden;
+}
+
+video {
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+user agent stylesheet
+video {
+    object-fit: contain;
+}
+
+.video video {
+    transition: opacity 650ms cubic-bezier(0, 0, 0, 1);
+    opacity: 0;
+    width: 236px;
+}  opacity: 1;
+
+.main-image {
+ padding-bottom: 0rem !important;
+}
+
+
+/* STYLE TILES */
+.style-tile{
+   padding-bottom: 50px;
+   padding-top: 50px;
+   color: #9a9a9a;
+}
+
+.style-tile h2 {
+  color: #9a9a9a;
+  text-transform: uppercase;
+  font-size: 20pt;
+}
+
+.style-tile-line {
+   border-bottom: 3px solid #9a9a9a;
+ }
+
+/* TLAB Desktop */
+.desktop-wrapper {
+    position: relative;
+    padding-bottom: 67.5%;
+}
+
+.desktop-wrapper video {
+    box-sizing: border-box;
+    background: url(/images/portfolio/Tlab/imac.png) center center no-repeat;
+    background-size: contain;
+    padding-top: 0px;
+    padding: 3.4% 11.9% 18.6%;/* 11.9% 15.5% 14.8% */
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.desktop {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footer-bottom .list-inline {
+    padding-bottom: 10px;
+}
+
+.footer-bottom .list-inline .list-inline-item  {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* TEXT STYLES */
+h1, h2 {
+  font-family: 'benton', sans-serif;
+}
+
+h2 {
+  color: #bf1850;
+  text-transform: uppercase;
+  font-size: 20pt;
+  font-weight: 700;
+}
+
+.portfolio-block .caption h6{
+  color: #000;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+
+/* PORTFOLIO ALL TITLE */
+.portfolio-block .caption h4 {
+  color: #bf1850;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+/* BLOG PAGE - DATE + role/company/title */
+.blog-single h6 {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+/* BLOG PAGE - detailed text */
+.blog-single h8 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #9a9a9a;
+}
+
+/* BLOG PAGE + PORTFOLIO TITLE */
+.blog-single h2 {
+  color: #bf1850;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.post-title h4 a {
+  color: #bf1850;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.portfolio-block {
+  padding-bottom: 30px;
+}
+
+#nav_left, #nav_right{
+    padding-top: 300px;
+    max-width: 10px;
+    font-size: 200%;
+}
+
+#nav{
+    position:fixed;
+    width:100%;
+    height:40px;
+}
+
+#wrap{
+    position:relative;
+    width:100%;
+    height:40px;
+}
+#nav_left {
+        left:5%;
+    position:absolute
+}
+#nav_right {
+    right:5%;
+    position:absolute
+}
