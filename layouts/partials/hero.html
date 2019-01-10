@@ -1,22 +1,17 @@
 {{ if .Site.Params.hero.enable }}
 {{ "<!-- Hero Area -->" | safeHTML }}
-<section class="hero-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                  <img class="img-fluid" src="images/ruby.png" alt="portfolio-image" height='40px'>
-            </div>
-            <div class="col-md-6">
-                <div class="block">
-                    {{ with .Site.Params.hero.heading }}
-                        <h2>{{ . }}</h2>
-                    {{ end }}
-                    {{ with .Site.Params.hero.description }}
-                        <h2>{{ . }}</h2>
-                    {{ end }}
-                </div>
-            </div>
+<section class="first-page">
+  <div class='rectangle-box'>
+      <div class='rectangle-content'>
+  		<div>
+  			<img class="img-fluid" src="images/ruby.png" alt="portfolio-image" height='20px'>
+        <div class="col-md-12">
         </div>
-    </div>
+        {{ with .Site.Params.hero.description }}
+          <h2>{{ . }}</h2>
+        {{ end }}
+  		</div>
+  	</div>
+  </div>
 </section>
 {{ end }}
