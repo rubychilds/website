@@ -9,7 +9,7 @@ filtermenu :
   - name      : UI
     category  : ui
   - name      : Data Science
-    category  : ui
+    category  : data-science
 
 
 item   :
