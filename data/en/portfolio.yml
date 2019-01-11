@@ -8,6 +8,8 @@ filtermenu :
     category  : design
   - name      : UI
     category  : ui
+  - name      : Data Science
+    category  : ui
 
 
 item   :
