@@ -76,7 +76,7 @@ footer {
 .mmm-app img {
     -webkit-filter: drop-shadow(5px 5px 5px rgba(0,2,32,0.15));
     filter: drop-shadow(5px 5px 5px rgba(0,2,32,0.15));
-    padding-bottom: 10px;
+    padding-bottom: 100px;
 }
 
 .mmm-app:hover img {
@@ -92,6 +92,16 @@ footer {
 .icon-mmm {
   padding-bottom: 50px;
 }
+
+
+.icon-mmm:hover {
+  -webkit-transform:scale(1.1); /* Safari and Chrome */
+  -moz-transform:scale(1.1); /* Firefox */
+  -ms-transform:scale(1.1); /* IE 9 */
+  -o-transform:scale(1.1); /* Opera */
+   transform:scale(1.1);
+}
+
 
 .category-cards {
   padding-bottom: 100px;
@@ -109,17 +119,15 @@ footer {
   padding-bottom: 100px;
 }
 
-.mmm-description {
-  padding-top:  50px;
-  padding-right: 50px;
+
+.mmm {
+  padding-top: 20%;
+
 }
 
-.icon-mmm:hover {
-  -webkit-transform:scale(1.1); /* Safari and Chrome */
-  -moz-transform:scale(1.1); /* Firefox */
-  -ms-transform:scale(1.1); /* IE 9 */
-  -o-transform:scale(1.1); /* Opera */
-   transform:scale(1.1);
+.mmm-description, .mmm-title {
+  padding-top:  50px;
+  padding-right: 50px;
 }
 
 /* Video Play */
@@ -169,7 +177,7 @@ video {
 }
 
 .style-tile h2 {
-  color: #9a9a9a;
+  color: #9a9a9a !important;
   text-transform: uppercase;
   font-size: 20pt;
 }

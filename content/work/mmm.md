@@ -1,12 +1,12 @@
 ---
 layout: post
-title: mind. mouth. menu.
-lead_title: mind. mouth. menu.
+title:
+lead_title:
 date: 2018-12-26
 categories: ["App Design"]
-role: Designer
-Company: Project Exploration
-year: 2018
+role:
+Company:
+year:
 front_image: images/portfolio/mmm-app/front-icon.png
 image: images/portfolio/mmm-app/header.png
 images: []
@@ -18,7 +18,13 @@ brief:
 
 <div class="row">
 
-  <div class="col-md-6 mx-auto">
+  <div class="col-md-6 mx-auto mmm">
+
+  <div class="project-title mmm-title">
+        <h2>mind. mouth. menu. </h2>
+        <h6> Designer   /   Project Exploration  /  2018 </h6>
+  </div>
+
     <div class="mmm-description">
         <h8>A cooking programme on healthy eating, is now looking at expansion into the app market <br><br>
         Clean, minimal app with energy to it with iconography and color scheme used.<br><br></h8>
@@ -80,52 +86,52 @@ brief:
     <div class="col-md-1 mx-auto icon-mmm">
         <img onmouseout="this.src='/images/portfolio/mmm-app/1x/home.png'"
         onmouseover="this.src='/images/portfolio/mmm-app/1x/home-active.png'"
-        alt="Post-Image" class="w-100 mb-3 padding-0">
+        alt="Post-Image" class="w-10 mb-1 img-fluid">
     </div>
     <div class="col-md-1 mx-auto icon-mmm">
         <img onmouseout="this.src='/images/portfolio/mmm-app/1x/notifications.png'"
         onmouseover="this.src='/images/portfolio/mmm-app/1x/notifications-active.png'"
-        alt="Post-Image" class="w-100 mb-3 padding-0">
+        alt="Post-Image" class="w-10 mb-1 img-fluid">
     </div>
     <div class="col-md-1 mx-auto icon-mmm">
         <img onmouseout="this.src='/images/portfolio/mmm-app/1x/search.png'"
         onmouseover="this.src='/images/portfolio/mmm-app/1x/search-active.png'"
-        alt="Post-Image" class="w-100 mb-3 padding-0">
+        alt="Post-Image" class="w-10 mb-1 img-fluid">
     </div>
-    <div class="col-md-1 mx-auto icon-mmm">
+    <div class="col-md-1 mx-auto icon-mmm ">
         <img onmouseout="this.src='/images/portfolio/mmm-app/1x/cart.png'"
         onmouseover="this.src='/images/portfolio/mmm-app/1x/cart-active.png'"
-        alt="Post-Image" class="w-100 mb-3 padding-0">
+        alt="Post-Image" class="w-30 mb-1 img-fluid">
     </div>
     <div class="col-md-1 mx-auto icon-mmm">
         <img onmouseout="this.src='/images/portfolio/mmm-app/1x/profile.png'"
         onmouseover="this.src='/images/portfolio/mmm-app/1x/profile-active.png'"
-        alt="Post-Image" class="w-100 mb-3 padding-0">
+        alt="Post-Image" class="w-30 mb-1 img-fluid">
     </div>
     <div class="col-md-1 mx-auto icon-mmm">
         <img onmouseout="this.src='/images/portfolio/mmm-app/1x/progress.png'"
         onmouseover="this.src='/images/portfolio/mmm-app/1x/progress-active.png'"
-        alt="Post-Image" class="w-100 mb-3 padding-0">
+        alt="Post-Image" class="w-30 mb-1 img-fluid">
     </div>
     <div class="col-md-1 mx-auto icon-mmm">
         <img onmouseout="this.src='/images/portfolio/mmm-app/1x/like.png'"
         onmouseover="this.src='/images/portfolio/mmm-app/1x/like-active.png'"
-        alt="Post-Image" class="w-100 mb-3 padding-0">
+        alt="Post-Image" class="w-30 mb-1 img-fluid">
     </div>
     <div class="col-md-1 mx-auto icon-mmm">
         <img onmouseout="this.src='/images/portfolio/mmm-app/1x/weight.png'"
         onmouseover="this.src='/images/portfolio/mmm-app/1x/weight-active.png'"
-        alt="Post-Image" class="w-100 mb-3 padding-0">
+        alt="Post-Image" class="w-30 mb-1 img-fluid">
     </div>
     <div class="col-md-1 mx-auto icon-mmm">
         <img onmouseout="this.src='/images/portfolio/mmm-app/1x/drink.png'"
         onmouseover="this.src='/images/portfolio/mmm-app/1x/drink-active.png'"
-        alt="Post-Image" class="w-100 mb-3 padding-0">
+        alt="Post-Image" class="w-30 mb-1 img-fluid">
     </div>
     <div class="col-md-1 mx-auto icon-mmm">
         <img onmouseout="this.src='/images/portfolio/mmm-app/1x/health.png'"
         onmouseover="this.src='/images/portfolio/mmm-app/1x/health-active.png'"
-        alt="Post-Image" class="w-100 mb-3 padding-0">
+        alt="Post-Image" class="w-30 mb-1 img-fluid">
     </div>
 </div>
 
@@ -133,16 +139,16 @@ brief:
 <div class="category-cards">
   <div class="row">
       <div class="col-md-3 mx-auto category-card">
-          <img src="/images/portfolio/mmm-app/1x/1.png"" alt="Post-Image" class="w-100 mb-3 padding-0">
+          <img src="/images/portfolio/mmm-app/1x/1.png"" alt="Post-Image" class="w-100 mb-1 padding-0">
       </div>
       <div class="col-md-3 mx-auto category-card">
-          <img src="/images/portfolio/mmm-app/1x/2.png"" alt="Post-Image" class="w-100 mb-3 padding-0">
+          <img src="/images/portfolio/mmm-app/1x/2.png"" alt="Post-Image" class="w-100 mb-1 padding-0">
       </div>
       <div class="col-md-3 mx-auto category-card">
-          <img src="/images/portfolio/mmm-app/1x/3.png" alt="Post-Image" class="w-100 mb-3 padding-0">
+          <img src="/images/portfolio/mmm-app/1x/3.png" alt="Post-Image" class="w-100 mb-1 padding-0">
       </div>
       <div class="col-md-3 mx-auto category-card">
-          <img src="/images/portfolio/mmm-app/1x/4.png"" alt="Post-Image" class="w-100 mb-3 padding-0">
+          <img src="/images/portfolio/mmm-app/1x/4.png"" alt="Post-Image" class="w-100 mb-1 padding-0">
       </div>
     </div>
 </div>

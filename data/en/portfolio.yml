@@ -20,12 +20,12 @@ item   :
   - title : BFI Ridley Scott
     image : images/portfolio/BFI/front-icon2.png
     category  : design
-    url: /work/bolt
+    url: /work/bfi-ridley-scott
 
   - title : Mind. Mouth. Menu.
     image : images/portfolio/mmm-app/front-icon.png
     category : ui
-    url: /work/mmmm
+    url: /work/mmm
 
   - title : Museum of Writing
     image : images/portfolio/museum-of-writing/front-icon.png
@@ -35,7 +35,7 @@ item   :
   - title : Putty Tribe
     image : images/portfolio/putty/front-image2.png
     category : design
-    url: /work/pydata
+    url: /work/putty-tribe
 
   - title : Tlab
     image : images/portfolio/Tlab/front-icon2.png

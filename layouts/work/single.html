@@ -27,7 +27,9 @@
         <div class="row">
             <div class="col-md-6 project-title">
                   <h2>{{ .Params.lead_title }}</h2>
-                  <h6> {{ .Params.role }}   /   {{ .Params.company }}  /  {{ .Params.year }} </h6>
+                  {{ if .Params.role}}
+                    <h6> {{ .Params.role }}   /   {{ .Params.company }}  /  {{ .Params.year }} </h6>
+                  {{ end }}
             </div>
             <div class="col-md-6">
                 <div class="block">
