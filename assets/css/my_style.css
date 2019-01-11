@@ -63,22 +63,6 @@ footer {
   padding-right: 0px;
 }
 
-.hero-area {
-  padding: 0px;
-  height: 500px;
-  background: #9a9a9a;
-  color: #9a9a9a;
-}
-
-.hero-area .block h2 {
-  font-size: 20px;
-  text-transform: none;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-
 .main-image {
   margin-bottom: 3rem !important;
 }
@@ -310,51 +294,24 @@ h2 {
     position:absolute
 }
 
-.first-page {
+.hero-area {
   height: 610px;
-  padding-top: 5%;
-  padding-bottom: 5%;
+  padding-top: 100px;
 }
 
-.rectangle-box {
-    position: relative;
-    width: 50%;
-    height: 100%;
-    overflow: hidden;
-    background: #bf1a51;
 
-	&:before{
-		content: "";
-		display: block;
-		padding-top: 100%;
-	}
-}
-
-.rectangle-box h2 {
+.hero-area .block h2 {
   padding-top: 10%;
-  color: white;
-  font-size: 16px;
+  padding-bottom: 10%;
+  font-size: 20px;
   text-transform: none;
+  font-weight: 400;
 }
 
-.rectangle-content {
-    position:  absolute;
-    top: 30%; left: 150px; bottom: 0; right: 150px;
-    color: white;
-}
-
-.rectangle-box .col-md-12 {
+.hero-area .block .line {
   padding-top: 5%;
   border-bottom: solid;
-  border-color: white;
+  border-color: #bf1850;
   border-width: 5px;
   width: 20%;
-}
-
-.first-page {
-  background: url(/images/main-page.png) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 }

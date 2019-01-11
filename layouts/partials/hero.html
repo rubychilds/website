@@ -1,17 +1,24 @@
 {{ if .Site.Params.hero.enable }}
 {{ "<!-- Hero Area -->" | safeHTML }}
-<section class="first-page">
-  <div class='rectangle-box'>
-      <div class='rectangle-content'>
-  		<div>
-  			<img class="img-fluid" src="images/ruby.png" alt="portfolio-image" height='20px'>
-        <div class="col-md-12">
+<!-- Hero Area -->
+<section class="hero-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+              <div class="col-md-10">
+                <div class="block">
+                    <img class="img-fluid R" src="images/ruby.png" alt="portfolio-image">
+                    <p class='line'></p>
+                    <h2>Multidisciplinary character, with 5 years experience in Startups and Data Science. Often wearing many hats. Currently venturing into all things Design.</h2>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="block">
+                  <img class="img-fluid" src="images/R.png" alt="portfolio-image" height='500px'>
+              </div>
+            </div>
         </div>
-        {{ with .Site.Params.hero.description }}
-          <h2>{{ . }}</h2>
-        {{ end }}
-  		</div>
-  	</div>
-  </div>
+    </div>
 </section>
 {{ end }}

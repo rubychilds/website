@@ -49,7 +49,7 @@ DefaultContentLanguage = "en"
     [Languages.en.params.hero]
         enable  = true
         heading = ""
-        description = "I'm a multidisciplinary creature, crossing both design and engineering"
+        description = "Multidisciplinary character, with 5 years in Startups and Data Science. Currently venturing into all things Design."
         button  = false
         btnText = "Know More"
         btnURL  = "https://themefisher.com/"
