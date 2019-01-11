@@ -41,3 +41,8 @@ item   :
     image : images/portfolio/Tlab/front-icon2.png
     category : ui
     url: /work/tlab
+
+  - title : Future of AI + Ethics
+    image : images/portfolio/ai-ethics/front-image.png
+    category : data-science
+    url: /work/ai-ethics

@@ -34,7 +34,7 @@ brief:
     <div class="col-md-6 mx-auto app-screen">
       <div id="MSvideoContainer">
         <div id="MSvideoContent">
-        <video id="phone" autoplay loop muted="" src="https://storage.googleapis.com/snapchat-web/download/app_store_sc1806_en-us.mp4" width="306" height="543" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen  class="state-ready"></video>
+        <video id="phone" autoplay loop muted="" src="/images/portfolio/mmm-app/mmm.mp4" width="306" height="543" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen  class="state-ready"></video>
         </div>
       </div>
     </div>
