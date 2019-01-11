@@ -300,7 +300,7 @@ h2 {
 }
 
 
-.hero-area .block h2 {
+.hero-area  h2 {
   padding-top: 10%;
   padding-bottom: 10%;
   font-size: 20px;
@@ -308,10 +308,14 @@ h2 {
   font-weight: 400;
 }
 
-.hero-area .block .line {
+.hero-area .line {
   padding-top: 5%;
   border-bottom: solid;
   border-color: #bf1850;
   border-width: 5px;
   width: 20%;
+}
+
+.hero-area .col-md-10 {
+  padding-left: 0px;
 }
