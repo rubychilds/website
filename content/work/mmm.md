@@ -78,16 +78,13 @@ brief:
 </div>
 <div class="row mmm-screens">
     <div class="col-md-3 mx-auto mmm-app">
-        <img src="/images/portfolio/mmm-app/loading-screen.png" alt="Post-Image" class="w-100 mb-3 padding-0">
+        <img src="/images/portfolio/mmm-app/process/wireframes1.png" alt="Post-Image" class="w-100 mb-3 padding-0">
     </div>
     <div class="col-md-3 mx-auto mmm-app">
-        <img src="/images/portfolio/mmm-app/home page.png" alt="Post-Image" class="w-100 mb-3 padding-0">
+        <img src="/images/portfolio/mmm-app/process/wireframes2.png" alt="Post-Image" class="w-100 mb-3 padding-0">
     </div>
     <div class="col-md-3 mx-auto mmm-app">
-        <img src="/images/portfolio/mmm-app/recipe-favourited.png" alt="Post-Image" class="w-100 mb-3 padding-0">
-    </div>
-    <div class="col-md-3 mx-auto mmm-app">
-        <img src="/images/portfolio/mmm-app/profile-favourites.png" alt="Post-Image" class="w-100 mb-3 padding-0">
+        <img src="/images/portfolio/mmm-app/process/wireframes3.png" alt="Post-Image" class="w-100 mb-3 padding-0">
     </div>
 </div>
 
