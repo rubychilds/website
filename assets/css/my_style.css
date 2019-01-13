@@ -45,8 +45,8 @@
 }
 
 .blog-single {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 footer {
@@ -76,7 +76,8 @@ footer {
 .mmm-app img {
     -webkit-filter: drop-shadow(5px 5px 5px rgba(0,2,32,0.15));
     filter: drop-shadow(5px 5px 5px rgba(0,2,32,0.15));
-    padding-bottom: 100px;
+    padding-bottom: 0px;
+    padding-top: 0px;
 }
 
 .mmm-app:hover img {
@@ -89,10 +90,14 @@ footer {
      filter: drop-shadow(5px 5px 5px rgba(0,2,32,0.15));
 }
 
-.icon-mmm {
-  padding-bottom: 50px;
+.mini-icon {
+  padding-right: 10px;
 }
 
+.exploration-assessment {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
 
 .icon-mmm:hover {
   -webkit-transform:scale(1.1); /* Safari and Chrome */
@@ -103,8 +108,9 @@ footer {
 }
 
 
-.category-cards {
+.category-cards, .mmm-screens, .app-screen  {
   padding-bottom: 100px;
+  padding-top: 100px;
 }
 
 .category-card:hover {
@@ -115,19 +121,21 @@ footer {
    transform:scale(1.1);
 }
 
-.app-screen {
-  padding-bottom: 100px;
-}
-
-
 .mmm {
-  padding-top: 20%;
-
+  padding-top: 10%;
 }
 
 .mmm-description, .mmm-title {
-  padding-top:  50px;
+  padding-top:  30px;
   padding-right: 50px;
+}
+
+.mmm-description {
+  padding-bottom: 40px;
+}
+
+.mmm .project-title h2 {
+    color: #e1e3fd !important;
 }
 
 /* Video Play */
@@ -327,3 +335,7 @@ h2 {
 .hero-area .col-md-10 {
   padding-left: 0px;
 }
+
+.mmm-title h2 {
+   color: #e1e3fd !important;
+ }
