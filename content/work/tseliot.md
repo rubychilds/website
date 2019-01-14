@@ -93,7 +93,7 @@ brief:
     <img src="/images/portfolio/tseliot/1.jpg" alt="Post-Image" class="w-100 mb-3 padding-0">
   </div>
 </div>  
-<div class="row">
+<div class="row poetry">
   <div class="col-sm-12">
     <img src="/images/portfolio/tseliot/2.jpg" alt="Post-Image" class="w-100 mb-3 padding-0">
   </div>
