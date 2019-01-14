@@ -20,7 +20,7 @@ brief: "Over the past year, I've had an increasing interest in AI and Ethics. He
   </div>
     <div class="col-sm-6">
     <li class="list-inline-item">
-        <a href="/docs/future_of_ai_ethics.pdf" target="_blank" class="btn btn-main">Read Now</a>
+        <a href="https://drive.google.com/open?id=1WUQMsUiZwAiuHxErGfvv9GnmEkww6xjW" target="_blank" class="btn btn-main">Read Now</a>
     </li>
     </div>
   </div>

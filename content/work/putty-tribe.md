@@ -11,9 +11,9 @@ year: 2018
 front_image: images/portfolio/putty/front-image2.png
 image: images/portfolio/putty/poster.png
 images: ["images/portfolio/putty/billboard.png"]
-brief: "Brief: Putty Tribe is a members group for multidisciplinary people. They are now upscaling and need a campaign to encourage more to join. <br><br>
-
-Concept: Passionate and multifaceted slogans to encourage signup."
+brief: "<a href=” https://theputtytribe.com/email-waitlist/”>The Putty Tribe</a> is an online members group for multidisciplinary people, often referred to as multipotentialites. These are often people who feel they have many callings in life and wish to break away from the ‘one life, one calling’ stereotype. They are now upscaling and need a campaign to both increase awareness of what is to be a multipotentiality and to increase membership.<br><br>
+Here I focused on the term multidisciplinary through using multi-faceted 3D type. The colour choice has varying tints of red to represent the passion these people have, as they often have many passions in life. The patterns themselves reflect the rhythmic nature of life with all the changes that come in it.
+"
 ---
 
 <div class="container">

@@ -14,14 +14,14 @@ brief: "Student based brief to design Samosa’s for Electricians. The design fo
 ---
 
 <!-- DEV -->
-  <div class="row">
-    <div class="col-sm-6">
-      <img src="/images/portfolio/samosa/dev1.png" alt="Post-Image" class="w-100 mb-3 padding-0">
-    </div>
-    <div class="col-sm-6">
-      <img src="/images/portfolio/samosa/dev2.png" alt="Post-Image" class="w-100 mb-3 padding-0">
-    </div>
+<div class="row">
+  <div class="col-sm-6">
+    <img src="/images/portfolio/samosa/dev1.png" alt="Post-Image" class="w-100 mb-3 padding-0">
   </div>
+  <div class="col-sm-6">
+    <img src="/images/portfolio/samosa/dev2.png" alt="Post-Image" class="w-100 mb-3 padding-0">
+  </div>
+</div>
 
   <div class="row">
     <div class="col-sm-12">

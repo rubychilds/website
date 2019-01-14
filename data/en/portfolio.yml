@@ -10,6 +10,8 @@ filtermenu :
     category  : ui
   - name      : Data Science
     category  : data-science
+  - name      : Art
+    category  : art
 
 
 item   :
@@ -48,3 +50,8 @@ item   :
     image : images/portfolio/ai-ethics/front-image.png
     category : data-science
     url: /work/ai-ethics
+
+  - title : The Ghost of T.S.Eliot
+    image : images/portfolio/tseliot/front-icon.png
+    category : art
+    url: /work/tseliot

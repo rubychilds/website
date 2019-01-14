@@ -24,8 +24,9 @@ brief:
           <h6> Designer   /   Project Exploration  /  2018 </h6>
     </div>
     <div class="mmm-description">
-        <h8>A cooking programme on healthy eating, is now looking at expansion into the app market <br><br>
-        Clean, minimal app with energy to it with iconography and color scheme used.<br><br></h8>
+        <h8>Mind. Mouth. Menu. is an app which places focus on finding recipes given a dietary need such as diabetes, weight loss, celiac and so on.<br><br>
+        The app design focuses on being clean and minimal, with simple focused iconography to increase user intuition. The app uses contrasting colours to maintain a sense of energy, whilst having a neutral white and grey colour throughout.
+        <br><br></h8>
     </div>
   </div>
 
