@@ -1,7 +1,6 @@
 ---
 layout: post
 title: T.S.Eliot
-draft: true
 lead_title:
 date: 2018-12-26
 categories: ["Data Science"]
