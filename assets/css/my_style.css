@@ -345,3 +345,17 @@ h2 {
    font-weight: bold;
  }
  */
+
+ .poem {
+   padding-top: 50px;
+   padding-bottom: 50px;
+   padding-left: 50px;
+   padding-right: 50px;
+   border: 3px solid #bf1850;
+   font-style: italic;
+ }
+
+ .poetry {
+   padding-top: 50px;
+   padding-bottom: 50px;
+ }
