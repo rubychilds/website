@@ -55,3 +55,8 @@ item   :
     image : images/portfolio/tseliot/front-icon.png
     category : art
     url: /work/tseliot
+
+  - title : PyData 2016 + 2017
+    image : images/portfolio/pydata/front-icon.png
+    category : design
+    url: /work/pydata
