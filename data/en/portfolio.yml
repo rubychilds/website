@@ -60,3 +60,8 @@ item   :
     image : images/portfolio/pydata/front-icon.png
     category : design
     url: /work/pydata
+
+  - title : "T-Bot: The Affordable Tensorflow Robot"
+    image : images/portfolio/tbot/front-icon.png
+    category : data-science
+    url: /work/tbot

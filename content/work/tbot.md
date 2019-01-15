@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tbot
-draft: true
 lead_title:
 date: 2016-12-26
 categories: ["Data Science"]
