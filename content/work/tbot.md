@@ -8,7 +8,7 @@ role:
 Company:
 year:
 front_image: images/portfolio/tbot/front-icon.png
-image: images/portfolio/tbot/robot.jpg
+image: images/portfolio/tbot/robot.png
 images: []
 brief:
 ---
