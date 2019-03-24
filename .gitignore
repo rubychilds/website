@@ -1,2 +1,4 @@
 static/images/portfolio/mmm/1x/fullsize/*
 public
+.DS_Store
+_site/*
