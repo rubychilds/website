@@ -6,8 +6,6 @@ subtitle: xxx
 filtermenu :
   - name      : Design
     category  : design
-  - name      : UI
-    category  : ui
   - name      : Data Science
     category  : data-science
   - name      : Art
@@ -20,48 +18,52 @@ item   :
     image : images/portfolio/samosa/front-icon3.png
     category  : design
     url: /work/bolt
+    additional: Packaging Design / Student Brief / 2018
 
   - title : BFI Ridley Scott
     image : images/portfolio/BFI/front-icon2.png
     category  : design
     url: /work/bfi-ridley-scott
+    additional: Event Campaign / Student Brief / 2018
 
   - title : Mind. Mouth. Menu.
     image : images/portfolio/mmm-app/front-icon.png
-    category : ui
+    category : design
     url: /work/mmm
+    additional: UI Design / Student Brief / 2018
 
   - title : Museum of Writing
     image : images/portfolio/museum-of-writing/front-icon.png
-    category : ui
+    category : design
     url: /work/museum-of-writing
+    additional: Branding / Museum of Writing / 2018
 
   - title : Putty Tribe
     image : images/portfolio/putty/front-image4.png
-    category : ui
+    category : design
     url: /work/putty-tribe
+    additional: Campaign / Putty Tribe / 2018
 
   - title : Tlab
     image : images/portfolio/Tlab/front-icon3.png
-    category : ui
+    category : design
     url: /work/tlab
+    additional: Web Design / TLab / 2018
 
   - title : Future of AI + Ethics
     image : images/portfolio/ai-ethics/front-image.png
     category : data-science
     url: /work/ai-ethics
+    additional: Research / AI + Ethics / 2018
 
   - title : The Ghost of T.S.Eliot
     image : images/portfolio/tseliot/front-icon.png
     category : art
     url: /work/tseliot
-
-  - title : PyData 2016 + 2017
-    image : images/portfolio/pydata/front-icon.png
-    category : design
-    url: /work/pydata
+    additional: AI Development / Creative Technology / 2017
 
   - title : "T-Bot: The Affordable Tensorflow Robot"
     image : images/portfolio/tbot/front-icon.png
     category : data-science
     url: /work/tbot
+    additional: AI Development / Creative Technology / 2017
