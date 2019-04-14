@@ -7,7 +7,7 @@ categories: ["Website Design"]
 role: Creative Technologist
 Company: Project Exploration
 year: 2017
-front_image: images/portfolio/Tlab/front-icon2.png
+front_image: images/portfolio/Tlab/front-icon3.png
 image: images/portfolio/Tlab/illustration.png
 images: []
 brief: "TLab , an innovation company has requested a redesign of their site., beginning with the initial landing page. Stepping into the future"

@@ -33,16 +33,16 @@ item   :
 
   - title : Museum of Writing
     image : images/portfolio/museum-of-writing/front-icon.png
-    category : design
+    category : ui
     url: /work/museum-of-writing
 
   - title : Putty Tribe
-    image : images/portfolio/putty/front-image2.png
-    category : design
+    image : images/portfolio/putty/front-image4.png
+    category : ui
     url: /work/putty-tribe
 
   - title : Tlab
-    image : images/portfolio/Tlab/front-icon2.png
+    image : images/portfolio/Tlab/front-icon3.png
     category : ui
     url: /work/tlab
 
