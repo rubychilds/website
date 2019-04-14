@@ -10,7 +10,7 @@
     {{ "<!-- Start Portfolio Section -->" | safeHTML }}
     <section class="work-section" id="portfolio">
         <div class="container">
-          <div class="container-fluid">
+          <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="portfolio-filter">
@@ -30,6 +30,9 @@
                                 <h4>
                                     <a href="{{ .url | absURL }}">{{ .title }}</a>
                                 </h4>
+                                <h6>
+                                    <a>{{ .additional }}</a>
+                                </h6>
                             </div>
                         </div>
                     </div>

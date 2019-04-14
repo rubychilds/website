@@ -25,13 +25,13 @@
         </div>
 
         <div class="row">
-            <div class="col-md-6 project-title">
+            <div class="col-md-4 project-title">
                   <h2>{{ .Params.lead_title }}</h2>
                   {{ if .Params.role}}
-                    <h6> {{ .Params.role }}   /   {{ .Params.company }}  /  {{ .Params.year }} </h6>
+                    <h6> {{ .Params.role }}   |   {{ .Params.company }}  |  {{ .Params.year }} </h6>
                   {{ end }}
             </div>
-            <div class="col-md-6">
+            <div class="col-md-8">
                 <div class="block">
                 <div class="post-meta mb-5">
                     <h8>{{ with .Params.brief }}{{ . | safeHTML }}{{ end }}<h8>

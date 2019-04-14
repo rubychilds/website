@@ -227,20 +227,27 @@ video {
 
 /* TEXT STYLES */
 h1, h2 {
-  font-family: 'benton', sans-serif;
+  font-family: 'benton-modern-display';
+}
+
+h1 {
+  color: #bf1850;
+  font-size: 45pt;
 }
 
 h2 {
-  color: #bf1850;
-  text-transform: uppercase;
   font-size: 20pt;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .portfolio-block .caption h6{
   color: #000;
   text-transform: uppercase;
   font-size: 12px;
+}
+
+.navigation .navbar-nav > li > a {
+    font-size: 12px;
 }
 
 
@@ -255,7 +262,6 @@ h2 {
 .blog-single h6 {
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 600;
 }
 
 /* BLOG PAGE - detailed text */
@@ -268,7 +274,6 @@ h2 {
 /* BLOG PAGE + PORTFOLIO TITLE */
 .blog-single h2 {
   color: #bf1850;
-  text-transform: uppercase;
   font-size: 20px;
   font-weight: 700;
 }
@@ -277,7 +282,7 @@ h2 {
   color: #bf1850;
   text-transform: uppercase;
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .portfolio-block {
@@ -322,6 +327,7 @@ h2 {
   font-size: 20px;
   text-transform: none;
   font-weight: 400;
+  font: "Roboto", sans-serif; 
 }
 
 .hero-area .line {

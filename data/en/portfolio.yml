@@ -60,10 +60,10 @@ item   :
     image : images/portfolio/tseliot/front-icon.png
     category : art
     url: /work/tseliot
-    additional: AI Development / Creative Technology / 2017
+    additional: AI Development / Creative Tech / 2017
 
   - title : "T-Bot: The Affordable Tensorflow Robot"
     image : images/portfolio/tbot/front-icon.png
     category : data-science
     url: /work/tbot
-    additional: AI Development / Creative Technology / 2017
+    additional: AI Development / Creative Tech / 2017
